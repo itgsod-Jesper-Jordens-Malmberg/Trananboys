@@ -4,6 +4,7 @@ Body {
     border-color: white;
     border-style: outset;
 }
+
 #Logga {
     font-style: oblique;
     font: 220% serif;
@@ -17,6 +18,7 @@ Body {
     text-align: center;
     font-style: Italic;
     font: 120% serif;
+<<<<<<< HEAD
 
 }
 
@@ -24,6 +26,8 @@ Body {
     border-width: 6px;
     border-color: white;
     border-style: outset;
+=======
+>>>>>>> FETCH_HEAD
 }
 
 #Färgerna Är Bara ett test och vi ska såklart ändra de. Sen så vet jag inte varför #body border inte är runt hela, det var det förut.
